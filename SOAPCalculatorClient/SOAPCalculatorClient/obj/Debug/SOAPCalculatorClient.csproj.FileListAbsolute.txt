@@ -1,0 +1,12 @@
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\bin\Debug\SOAPCalculatorClient.exe.config
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\bin\Debug\SOAPCalculatorClient.exe
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\bin\Debug\SOAPCalculatorClient.pdb
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\obj\Debug\SOAPCalculatorClient.csproj.AssemblyReference.cache
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\obj\Debug\SOAPCalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\obj\Debug\SOAPCalc.CCB8AD3A.Up2Date
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\obj\Debug\SOAPCalculatorClient.exe
+C:\Users\karol\source\repos\SOAPCalculatorClient\SOAPCalculatorClient\obj\Debug\SOAPCalculatorClient.pdb
