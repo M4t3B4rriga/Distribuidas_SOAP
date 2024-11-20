@@ -485,21 +485,21 @@ namespace SOAPCalculatorClient
 Uso de SOAP en Python
 Importacion de las librerías:
 
-![image.png](image%201.png)
+![image.png](./img/image%201.png)
 
 La librería de zeep nos permite hacer clientes de Web service esto enfocado en el SOAP. Con esto se puede llegar a consumir APIs.
 
-![image.png](image%202.png)
+![image.png](./img/image%202.png)
 
 Consumimos el servicio WSDL
 
-![image.png](image%203.png)
+![image.png](./img/image%203.png)
 
 Creamos el cliente SOAP y lo dirigimos a donde queremos que consuma la API
 Para inspeccionar los servicios que contiene esta API lo que hacemos es los métodos disponibles que contiene haciendo un recorrido por cliente que contine el WSDL
 
-![image.png](image%204.png)
+![image.png](./img/image%204.png)
 
 Luego por medio de consola realizamos las operaciones aritméticas con paso de datos quemados, especificando el método que se quiere usar de la API.
 
-![image.png](image%205.png)
+![image.png](./img/image%205.png)
