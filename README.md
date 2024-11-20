@@ -478,7 +478,7 @@ namespace SOAPCalculatorClient
     - Presionamos Ctrl+F5 en Visual Studio para ejecutar la aplicación
     - Visualizamos el resultado por consola
 
-![image.png](image.png)
+![image.png](./img/image.png)
 
 # Consumo del Servicio Utilizando Python
 
