@@ -191,7 +191,7 @@ wsimport -keep -p com.soap.wsdl http://www.dneonline.com/calculator.asmx?WSDL
 1. Esto generará las clases necesarias para consumir el servicio, como Add, Subtract, Multiply, Divide, y sus respectivas respuestas.
 2. Coloca estas clases generadas dentro de src/main/java/com/soap/wsdl.
 
-![Screenshot 2024-11-19 at 7.54.53 AM.png](Screenshot_2024-11-19_at_7.54.53_AM.png)
+![Screenshot 2024-11-19 at 7.54.53 AM.png](./img/Screenshot_2024-11-19_at_7.54.53_AM.png)
 
 **4. Configurar el Cliente SOAP**
 
